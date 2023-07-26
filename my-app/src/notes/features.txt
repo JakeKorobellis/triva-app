@@ -1,0 +1,13 @@
+Feature 1) **Complete**
+Create a drop down, on a chane update the state of the category. One this changes have it re-render the sideffect so 
+the desire catagory is presented on the first question. 
+
+
+Feature 2)**Taken care of at the end** 
+Also, instead of popping up with a loading symbol, see if there is a way to show whether the answer was correct or false \
+during 'isLoading' state being true. Have it set on a timer for about 5 seconds
+
+
+Feature 3**Done, one array via state**
+at the end of the round dislay the answers that were correct and the answers that were correct
+    -This can be done with two array, one holding the correct answers and the other holding the incorrect answers
